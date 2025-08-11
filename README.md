@@ -9,7 +9,7 @@
 * 🔗 Linkedin:[ Dalila Xavier](https://www.linkedin.com/in/dalila-xavier-34a314207/).
 * 📩 E-mail: dalilaxavier.tech@gmail.com
 
-### 🤖 Linguagens e Tecnologias: 
+### 🤖 Tecnologias em aprendizado:
 <img 
     align = "left" 
     alt="HTML"
