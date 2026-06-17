@@ -3,7 +3,7 @@
 
 * 🎯 Em transição de carreira da Engenharia Civil para a área de Qualidade de Software.  
 * 🎓 Estudante de Análise e Desenvolvimento de Sistemas.  
-* 🧪 Estudando e praticando testes manuais.
+* 🧪 Estudando e praticando testes manuais e automatizados. 
 * 🧠 Estudando Lógica de Programação.
 * 📚 Compartilhando meus projetos, aprendizados e evolução na área de QA.
 * 🔗 Linkedin:[ Dalila Xavier](https://www.linkedin.com/in/dalila-xavier-34a314207/).
